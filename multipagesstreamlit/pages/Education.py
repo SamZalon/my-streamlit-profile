@@ -8,7 +8,7 @@ st.title("ประวัติการศึกษา 🎓")
 with st.container(border=True):
     col1, col2 = st.columns([1, 4]) # แบ่งคอลัมน์สำหรับรูปและข้อความ
     with col1:
-        st.image("images/perple.png", width=80)
+        st.image("multipagesstreamlit/images/perple.png", width=80)
     with col2:
         st.subheader("ระดับประถมศึกษา")
         st.write("โรงเรียนบ้านควนม่วง")
