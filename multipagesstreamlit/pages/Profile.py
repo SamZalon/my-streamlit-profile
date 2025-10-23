@@ -6,7 +6,7 @@ st.set_page_config(page_title="My Profile", page_icon="🧑‍💻")
 # ใช้คอลัมน์เพื่อจัดให้อยู่ตรงกลาง (คล้ายๆ CircleAvatar)
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
-    st.image("images/myprofile.jpg", width=200)
+    st.image("multipagesstreamlit/images/myprofile.jpg", width=200)
 
 st.title("ประวัติส่วนตัว")
 
