@@ -17,7 +17,7 @@ with st.container(border=True):
 with st.container(border=True):
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("multipagesstreamlit/images/perple.png", width=80)
+        st.image("multipagesstreamlit/images/KP.png", width=80)
     with col2:
         st.subheader("ระดับมัธยมศึกษา ตอนต้น-ตอนปลาย")
         st.write("โรงเรียนเขาดินประชานุกูล")
@@ -26,7 +26,7 @@ with st.container(border=True):
 with st.container(border=True):
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("multipagesstreamlit/images/perple.png", width=60)
+        st.image("multipagesstreamlit/images/KD.png", width=60)
     with col2:
         st.subheader("ระดับการศึกษา: ปริญญาตรี")
         st.write("มหาวิทยาลัยราชภัฏภูเก็ต")
