@@ -20,7 +20,7 @@ col1, col2, col3 = st.columns([1,2,1]) # แบ่ง 3 คอลัมน์ �
 
 #... (โค้ดส่วนอื่น) ...
 with col2:
-    st.image("images/myprofile.jpg", caption="สุชานันท์ ขันพระแสง", use_container_width=True) # <--- แก้ไขตรงนี้
+    st.image("multipagesstreamlit/images/myprofile.jpg", caption="สุชานันท์ ขันพระแสง", use_container_width=True)
 
 
 
