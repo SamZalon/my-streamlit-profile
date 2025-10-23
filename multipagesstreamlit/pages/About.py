@@ -9,7 +9,7 @@ with st.container(border=True):
     st.subheader("App Info:")
     st.markdown("**App Name:** My Profile App")
     st.markdown("**Developer:** นายสุชานันท์ ขันพระแสง")
-    st.markdown("**Description:** แอพพลิเคชั่นนี้สร้างขึ้นเพื่อแสดงข้อมูลส่วนตัวของข้าพเจ้า รวมถึงประวัติการศึกษา (เวอร์ชัน Streamlit)")
+    st.markdown("**Description:** แอพพลิเคชั่นนี้สร้างขึ้นเพื่อแสดงข้อมูลส่วนตัวของข้าพเจ้า รวมถึงประวัติการศึกษา")
 
 # --- กล่อง Contact ---
 with st.container(border=True):
